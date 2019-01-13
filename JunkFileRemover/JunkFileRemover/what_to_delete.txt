@@ -1,0 +1,12 @@
+// Here you should write which directories and files to remove. //
+//                                                              //
+//                  Use // to comment a line                    //
+//                                                              //
+//              Do not remove or rename this file               //
+//                                                              //
+//////////////////////////////////////////////////////////////////
+
+
+bin/
+obj/
+.vs/
